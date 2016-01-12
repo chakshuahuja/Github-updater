@@ -1,5 +1,1 @@
-chakshu
-d,;,;fdfhello hifsdnsaknsdfb
-1
-1
-1
+Github Updater script automates the changes made on the github repository on the production server. It sits on the production server and has a URL which we trigger it. This also send an e-mail to the given e-mail address with a concise log after every push.
